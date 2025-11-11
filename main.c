@@ -1,3 +1,6 @@
+// Carolina Lee
+// 10440304
+// A = 1; B=2 etc
 #include <stdio.h>
 #include <stdlib.h>
 
